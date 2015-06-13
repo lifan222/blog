@@ -1,5 +1,5 @@
 # Site settings
-title: Paradox
+title: LiFan
 email: lifandream@gmail.com
 url: https://lifan222.github.io
 baseurl: /blog
@@ -16,9 +16,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: TMU.LiFan
   location: Location
-  social: Around the Web
+  social: Social
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -36,11 +36,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Tokyo
+  - line: Japan
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
