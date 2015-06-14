@@ -19,7 +19,7 @@ footer:
   copyright: TMU.LiFan
   location: Location
   social: Social
-  credits: Credits
+  credits: Dream
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -40,7 +40,7 @@ address:
   - line: Japan
 
 # Credits content
-credits: ''
+credits: 'Google'
 
 # Build settings
 markdown: kramdown
